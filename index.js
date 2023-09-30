@@ -13,7 +13,6 @@ const port = 4000
 
 // ! get request {home route and callback function}
 
-console.log(process.env) /
 app.get("/", (req, res) => {
     res.send("Lo Bhai Satyam Pahela app ban gya")
 })
