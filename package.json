@@ -1,0 +1,22 @@
+{
+  "name": "firstbackendproject",
+  "version": "1.0.0",
+  "description": "a basic backend app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "satyamgitt"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "satyam rao",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
